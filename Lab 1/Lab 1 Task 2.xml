@@ -1,0 +1,27 @@
+<Clients>
+
+<Client>
+
+<SL.No.>23</SL.No.>
+<Name>John Carter</Name>
+<AdmissionDate>25/12/2015</AdmissionDate>
+
+</Client>
+
+<Client>
+
+<SL.No.>2293</SL.No.>
+<Name>BobMarshal</Name>
+<AdmissionDate>13/01/1999</AdmissionDate>
+
+</Client>
+
+<Client>
+
+<SL.No.>35</SL.No.>
+<Name>Clark Kent</Name>
+<AdmissionDate>17/06/2005</AdmissionDate>
+
+</Client>
+
+</Clients>
