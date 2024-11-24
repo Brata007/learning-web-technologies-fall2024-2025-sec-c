@@ -1,17 +1,6 @@
 <?php
     session_start();
     if(isset($_REQUEST['submit'])){
-        //print_r($_GET);
-        //echo "Test";
-        //var_dump($_GET);
-
-        // $abc = 10;
-
-        // function sum(){
-        //     //$GLOBALS['abc'];
-        //     global $abc;
-        // }
-
         $username = trim($_POST['username']);
         $password = trim($_REQUEST['password']);
         //echo "your username is: ".$username;
